@@ -73,7 +73,9 @@
 
   "anthropic": {
     "model": "claude-sonnet-4-6",
-    "maxTokens": 4000
+    "maxTokens": 8000,
+    "searchesPerGame": 8,
+    "maxGamesPerRun": 12
   },
 
   "discord": {
