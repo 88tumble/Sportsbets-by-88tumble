@@ -28,29 +28,54 @@ const ODDS_API_KEY = process.env.ODDS_API_KEY;
 const ODDSPAPI_KEY = process.env.ODDSPAPI_KEY;
 
 // ---------------------------------------------------------------------------
-// 1. Analyst pick pull (Anthropic API + web search)
+// 1. Analyst pick pull — one targeted API call PER GAME for max extraction
 // ---------------------------------------------------------------------------
 
-async function pullAnalystPicks() {
+/** Build today's game list from the odds feeds (fixtures double as the slate). */
+function buildSlate(nbaOdds, wcOdds) {
+  const now = Date.now();
+  const windowMs = 36 * 60 * 60 * 1000; // games starting within the next 36h
+  const slate = [];
+
+  for (const g of nbaOdds || []) {
+    const t = Date.parse(g.commence_time);
+    if (t > now - 2 * 3600e3 && t < now + windowMs) {
+      slate.push({ sport: "nba", game: `${g.away_team} vs ${g.home_team}` });
+    }
+  }
+  for (const g of wcOdds || []) {
+    const t = Date.parse(g.commence_time);
+    if (t > now - 2 * 3600e3 && t < now + windowMs) {
+      slate.push({ sport: "worldcup", game: `${g.away_team} vs ${g.home_team}` });
+    }
+  }
+  return slate.slice(0, CONFIG.anthropic.maxGamesPerRun || 12);
+}
+
+async function pullPicksForGame(entry) {
   const today = new Date().toISOString().slice(0, 10);
   const sources = CONFIG.analystSources.join(", ");
+  const sportLabel = entry.sport === "nba" ? "NBA game" : "FIFA World Cup 2026 match";
 
-  const prompt = `Search the web for today's (${today}) published expert betting picks for:
-1. NBA games
-2. FIFA World Cup 2026 matches
+  const prompt = `Search the web for published expert betting picks for the ${sportLabel}: ${entry.game} (played on or around ${today}).
 
-Only use these sources: ${sources}.
+Search multiple times with different queries to find as many picks as possible. Check these sources: ${sources}.
 
-For every pick you find, extract:
-- analyst: analyst name and outlet, e.g. "Martin Green (SportsLine)"
-- sport: "nba" or "worldcup"
-- game: "Away vs Home" or "Team A vs Team B"
+Extract EVERY pick you find, including:
+- Named analyst picks (use "Analyst Name (Outlet)")
+- Unbylined staff/site picks (use just the outlet name, e.g. "Covers staff")
+- Only include picks whose actual side is stated in free text. If an article teases a pick behind a paywall without revealing the side, skip it.
+
+For each pick:
+- analyst: name and outlet, or outlet name if unbylined
+- sport: "${entry.sport}"
+- game: "${entry.game}"
 - market: "spread" | "moneyline" | "total" | "prop"
-- pick: the exact side/number, e.g. "Lakers -3.5", "Over 2.5", "Morocco ML"
-- lineAtPick: the line/odds quoted in the article, if stated (string, else null)
-- record: the analyst's documented record if the article states one (string, else null)
+- pick: the exact side/number, e.g. "Over 2.5", "Brazil -1.5", "Norway ML"
+- lineAtPick: the line/odds quoted, if stated (string, else null)
+- record: the analyst's documented record if stated (string, else null)
 
-Respond with ONLY a raw JSON array of these objects. No markdown fences, no preamble, no trailing commentary. If you find no picks, respond with [].`;
+Respond with ONLY a raw JSON array. No markdown fences, no preamble. If no picks found, respond [].`;
 
   const res = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
@@ -63,12 +88,13 @@ Respond with ONLY a raw JSON array of these objects. No markdown fences, no prea
       model: CONFIG.anthropic.model,
       max_tokens: CONFIG.anthropic.maxTokens,
       messages: [{ role: "user", content: prompt }],
-      tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 12 }],
+      tools: [{ type: "web_search_20250305", name: "web_search", max_uses: CONFIG.anthropic.searchesPerGame || 8 }],
     }),
   });
 
   if (!res.ok) {
-    throw new Error(`Anthropic API error ${res.status}: ${await res.text()}`);
+    console.error(`Anthropic API error ${res.status} on ${entry.game}: ${await res.text()}`);
+    return [];
   }
 
   const data = await res.json();
@@ -78,6 +104,31 @@ Respond with ONLY a raw JSON array of these objects. No markdown fences, no prea
     .join("\n");
 
   return extractJsonArray(text);
+}
+
+async function pullAnalystPicks(slate) {
+  const all = [];
+  for (const entry of slate) {
+    console.log(`Pulling picks: ${entry.game} (${entry.sport})…`);
+    const picks = await pullPicksForGame(entry).catch((e) => (console.error(e.message), []));
+    console.log(`  → ${picks.length} picks`);
+    all.push(...picks);
+  }
+  return dedupePicks(all);
+}
+
+/** Same analyst + game + market + normalized side = one pick. */
+function dedupePicks(picks) {
+  const seen = new Set();
+  const out = [];
+  for (const p of picks) {
+    const key = [p.analyst, (p.game || "").toLowerCase(), p.market, normalizeSide(p.pick || "")].join("|");
+    if (!seen.has(key)) {
+      seen.add(key);
+      out.push(p);
+    }
+  }
+  return out;
 }
 
 /** Strip fences, take everything between first [ and last ] — the pattern that
@@ -207,8 +258,17 @@ function groupPicks(picks) {
 }
 
 function normalizeSide(pick) {
-  // "Lakers -3.5" and "Lakers -4" are the same side; strip numbers for grouping.
-  return pick.toLowerCase().replace(/[-+]?\d+(\.\d+)?/g, "").replace(/\s+/g, " ").trim();
+  // "Lakers -3.5" / "Lakers -4" are the same side; "Over 2.5" / "Over 2.5 goals"
+  // / "Over (2.5)" must group together too. Strip numbers, parentheticals, and
+  // filler words that vary by outlet phrasing.
+  return String(pick)
+    .toLowerCase()
+    .replace(/\([^)]*\)/g, " ")
+    .replace(/[-+]?\d+(\.\d+)?/g, " ")
+    .replace(/\b(goals?|points?|pts|total|ml|moneyline|money line|regulation|reg|to win|to advance|advance|qualify|qualifies)\b/g, " ")
+    .replace(/[^a-z\s]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function evaluateTriggers(groups, allPicks) {
@@ -398,9 +458,19 @@ function emoji(type) {
     process.exit(1);
   }
 
-  console.log("Pulling analyst picks…");
-  const picks = await pullAnalystPicks();
-  console.log(`Found ${picks.length} picks`);
+  console.log("Fetching live odds (also used to build today's slate)…");
+  const nbaOdds = await fetchNbaOdds().catch((e) => (console.error(e.message), []));
+  const wcOdds = await fetchWorldCupOdds().catch((e) => (console.error(e.message), []));
+
+  const slate = buildSlate(nbaOdds, wcOdds);
+  console.log(`Slate: ${slate.length} game(s) in window`);
+  if (!slate.length) {
+    console.log("No upcoming games found — exiting silently.");
+    return;
+  }
+
+  const picks = await pullAnalystPicks(slate);
+  console.log(`Total unique picks across slate: ${picks.length}`);
 
   if (!picks.length) {
     console.log("No picks found — exiting silently (trigger-only mode).");
@@ -411,10 +481,6 @@ function emoji(type) {
 
   const groups = groupPicks(picks);
   let alerts = evaluateTriggers(groups, picks);
-
-  console.log("Fetching live odds for edge checks…");
-  const nbaOdds = await fetchNbaOdds().catch((e) => (console.error(e.message), []));
-  const wcOdds = await fetchWorldCupOdds().catch((e) => (console.error(e.message), []));
   const edgeAlerts = evaluateMarketEdges(alerts, { nba: nbaOdds, worldcup: wcOdds });
 
   alerts = [...alerts, ...edgeAlerts];
