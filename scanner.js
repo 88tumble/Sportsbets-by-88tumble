@@ -63,7 +63,7 @@ Respond with ONLY a raw JSON array of these objects. No markdown fences, no prea
       model: CONFIG.anthropic.model,
       max_tokens: CONFIG.anthropic.maxTokens,
       messages: [{ role: "user", content: prompt }],
-      tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 6 }],
+      tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 12 }],
     }),
   });
 
@@ -154,9 +154,29 @@ async function fetchNbaOdds() {
 
 async function fetchWorldCupOdds() {
   if (!CONFIG.sports.worldcup.enabled) return [];
+
+  // Primary: The Odds API (same key + response shape as NBA, so edge logic just works)
+  if (ODDS_API_KEY && CONFIG.sports.worldcup.oddsApi) {
+    const { sport, regions, markets } = CONFIG.sports.worldcup.oddsApi;
+    const url = `https://api.the-odds-api.com/v4/sports/${sport}/odds/?apiKey=${ODDS_API_KEY}&regions=${regions}&markets=${markets}&oddsFormat=american`;
+    const res = await fetch(url);
+    if (res.ok) {
+      const games = await res.json();
+      if (Array.isArray(games) && games.length) {
+        console.log(`World Cup odds via The Odds API: ${games.length} games`);
+        return games;
+      }
+    } else {
+      console.error(`The Odds API (World Cup) error ${res.status} — trying OddsPapi fallback`);
+    }
+  }
+
+  // Fallback: OddsPapi. Note: key goes as a QUERY PARAMETER, not a header.
+  if (!ODDSPAPI_KEY) return [];
   const { sportId, tournamentName } = CONFIG.sports.worldcup.oddsPapi;
-  const headers = ODDSPAPI_KEY ? { "x-api-key": ODDSPAPI_KEY } : {};
-  const res = await fetch(`https://api.oddspapi.io/v4/fixtures?sportId=${sportId}`, { headers });
+  const res = await fetch(
+    `https://api.oddspapi.io/v4/fixtures?sportId=${sportId}&apiKey=${ODDSPAPI_KEY}`
+  );
   if (!res.ok) {
     console.error(`OddsPapi error ${res.status}`);
     return [];
@@ -246,18 +266,21 @@ function evaluateTriggers(groups, allPicks) {
   return alerts;
 }
 
-/** Trigger C: edge vs market. Compares consensus NBA spread/total picks against
- *  the best current book number. Fires when the gap beats the threshold. */
-function evaluateNbaEdges(alerts, nbaOdds) {
+/** Trigger C: edge vs market. Compares consensus spread/total picks against
+ *  the best current book number. Fires when the gap beats the threshold.
+ *  Works for any sport whose odds come from The Odds API (NBA + World Cup). */
+function evaluateMarketEdges(alerts, oddsBySport) {
   const t = CONFIG.triggers.edgeThresholds;
   const out = [];
 
   for (const alert of alerts) {
-    if (alert.sport !== "nba" || alert.type !== "CONSENSUS") continue;
+    if (alert.type !== "CONSENSUS") continue;
+    const oddsList = oddsBySport[alert.sport];
+    if (!oddsList || !oddsList.length) continue;
     const pickNum = extractNumber(alert.side) ?? extractNumber(alertSideRaw(alert));
     if (pickNum === null) continue;
 
-    const game = matchGame(nbaOdds, alert.game);
+    const game = matchGame(oddsList, alert.game);
     if (!game) continue;
 
     const marketKey = alert.market === "total" ? "totals" : alert.market === "spread" ? "spreads" : null;
@@ -267,7 +290,12 @@ function evaluateNbaEdges(alerts, nbaOdds) {
     if (best === null) continue;
 
     const gap = Math.abs(pickNum - best.point);
-    const threshold = marketKey === "totals" ? t.nbaTotalPoints : t.nbaSpreadPoints;
+    const threshold =
+      alert.sport === "worldcup"
+        ? t.soccerTotalGoals || 0.5
+        : marketKey === "totals"
+          ? t.nbaTotalPoints
+          : t.nbaSpreadPoints;
     if (gap >= threshold) {
       out.push({
         ...alert,
@@ -386,10 +414,8 @@ function emoji(type) {
 
   console.log("Fetching live odds for edge checks…");
   const nbaOdds = await fetchNbaOdds().catch((e) => (console.error(e.message), []));
-  const edgeAlerts = evaluateNbaEdges(alerts, nbaOdds);
-  // World Cup fixtures fetched for context/logging; implied-prob edge check can
-  // be added once you settle on which OddsPapi odds fields to trust.
-  await fetchWorldCupOdds().catch((e) => (console.error(e.message), []));
+  const wcOdds = await fetchWorldCupOdds().catch((e) => (console.error(e.message), []));
+  const edgeAlerts = evaluateMarketEdges(alerts, { nba: nbaOdds, worldcup: wcOdds });
 
   alerts = [...alerts, ...edgeAlerts];
 
