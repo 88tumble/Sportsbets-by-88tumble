@@ -1,0 +1,39 @@
+name: Line Scanner
+
+on:
+  schedule:
+    # Cron is in UTC. 14:00 UTC = 10am ET, 20:00 UTC = 4pm ET (during EDT).
+    - cron: "0 14 * * *"
+    - cron: "0 20 * * *"
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write # needed to commit records.json back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Run scanner
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          ODDSPAPI_KEY: ${{ secrets.ODDSPAPI_KEY }}
+        run: node scanner.js
+
+      - name: Commit updated records
+        run: |
+          git config user.name "line-scanner-bot"
+          git config user.email "actions@github.com"
+          git add records.json
+          git diff --cached --quiet || git commit -m "Update analyst records [skip ci]"
+          git push

@@ -1,0 +1,24 @@
+{
+  "_readme": "Analyst hit-rate tracking. The workflow commits this file back after each run. Add analysts as they appear; seed tier from documented records (e.g. SportsLine publishes runs like '16-6'). effectiveWeight = tierWeight * (0.5 + hitRate) once graded >= 10, else tierWeight.",
+  "analysts": {
+    "Martin Green (SportsLine)": {
+      "tier": "tier1",
+      "picksTracked": 22,
+      "picksGraded": 22,
+      "wins": 16,
+      "losses": 6,
+      "pushes": 0,
+      "lastSeen": "2026-07-04"
+    },
+    "Jon Eimer (SportsLine)": {
+      "tier": "tier1",
+      "picksTracked": 40,
+      "picksGraded": 40,
+      "wins": 25,
+      "losses": 15,
+      "pushes": 0,
+      "lastSeen": "2026-07-04"
+    }
+  },
+  "pendingPicks": []
+}

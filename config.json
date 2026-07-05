@@ -1,0 +1,62 @@
+{
+  "sports": {
+    "nba": {
+      "enabled": true,
+      "oddsApi": {
+        "sport": "basketball_nba",
+        "regions": "us",
+        "markets": "h2h,spreads,totals"
+      }
+    },
+    "worldcup": {
+      "enabled": true,
+      "oddsPapi": {
+        "sportId": 10,
+        "tournamentName": "FIFA World Cup"
+      }
+    }
+  },
+
+  "analystSources": [
+    "Action Network",
+    "ESPN",
+    "Covers",
+    "SportsLine",
+    "RotoWire"
+  ],
+
+  "analystTiers": {
+    "tier1": { "weight": 3.0, "description": "Proven track record, documented 60%+ hit rate" },
+    "tier2": { "weight": 2.0, "description": "Solid record or major outlet lead handicapper" },
+    "tier3": { "weight": 1.0, "description": "Unproven / new to tracking" }
+  },
+
+  "triggers": {
+    "consensusMinAnalysts": 3,
+    "consensusMinWeightedScore": 5.0,
+    "dissentMinWeight": 3.0,
+    "edgeThresholds": {
+      "nbaSpreadPoints": 1.5,
+      "nbaTotalPoints": 2.0,
+      "impliedProbabilityGapPct": 5.0
+    }
+  },
+
+  "schedule": {
+    "note": "Cron is set in .github/workflows/scan.yml — this block is informational only",
+    "runsPerDay": 2
+  },
+
+  "anthropic": {
+    "model": "claude-sonnet-4-6",
+    "maxTokens": 4000
+  },
+
+  "discord": {
+    "botName": "Line Scanner",
+    "colorConsensus": 3066993,
+    "colorDissent": 15105570,
+    "colorEdge": 15158332,
+    "sendDailyDigest": false
+  }
+}
