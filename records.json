@@ -3,22 +3,171 @@
   "analysts": {
     "Martin Green (SportsLine)": {
       "tier": "tier1",
-      "picksTracked": 22,
+      "picksTracked": 24,
       "picksGraded": 22,
       "wins": 16,
       "losses": 6,
       "pushes": 0,
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     "Jon Eimer (SportsLine)": {
       "tier": "tier1",
-      "picksTracked": 40,
+      "picksTracked": 42,
       "picksGraded": 40,
       "wins": 25,
       "losses": 15,
       "pushes": 0,
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
+    },
+    "Brad Thomas / Martin Green / Brandt Sutton / Matt Severance (SportsLine)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-05"
+    },
+    "RotoWire Staff (RotoWire)": {
+      "tier": "tier3",
+      "picksTracked": 3,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-05"
+    },
+    "Adam Levitan / RotoWire Staff (RotoWire)": {
+      "tier": "tier3",
+      "picksTracked": 3,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-05"
     }
   },
-  "pendingPicks": []
+  "pendingPicks": [
+    {
+      "analyst": "Jon Eimer (SportsLine)",
+      "sport": "worldcup",
+      "game": "Brazil vs Norway",
+      "market": "moneyline",
+      "pick": "Norway to qualify",
+      "lineAtPick": "+210",
+      "record": "25-16-2 on World Cup picks",
+      "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "Jon Eimer (SportsLine)",
+      "sport": "worldcup",
+      "game": "Brazil vs Norway",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-134",
+      "record": "25-16-2 on World Cup picks",
+      "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "Brad Thomas / Martin Green / Brandt Sutton / Matt Severance (SportsLine)",
+      "sport": "worldcup",
+      "game": "Brazil vs Norway",
+      "market": "moneyline",
+      "pick": "Brazil ML (regulation)",
+      "lineAtPick": "-130",
+      "record": null,
+      "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine)",
+      "sport": "worldcup",
+      "game": "Mexico vs England",
+      "market": "moneyline",
+      "pick": "Mexico win or draw (double chance)",
+      "lineAtPick": "-135",
+      "record": "18-8 over last 26 UCL picks",
+      "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine)",
+      "sport": "worldcup",
+      "game": "Mexico vs England",
+      "market": "prop",
+      "pick": "Harry Kane anytime goalscorer",
+      "lineAtPick": "+135",
+      "record": "18-8 over last 26 UCL picks",
+      "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire Staff (RotoWire)",
+      "sport": "worldcup",
+      "game": "Brazil vs Norway",
+      "market": "total",
+      "pick": "Over 2.5 goals",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire Staff (RotoWire)",
+      "sport": "worldcup",
+      "game": "Brazil vs Norway",
+      "market": "prop",
+      "pick": "Over 8.5 shots on target",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire Staff (RotoWire)",
+      "sport": "worldcup",
+      "game": "Brazil vs Norway",
+      "market": "prop",
+      "pick": "Over 8.5 corners",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "Adam Levitan / RotoWire Staff (RotoWire)",
+      "sport": "worldcup",
+      "game": "Mexico vs England",
+      "market": "total",
+      "pick": "Under 1.5 goals",
+      "lineAtPick": "+185",
+      "record": null,
+      "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "Adam Levitan / RotoWire Staff (RotoWire)",
+      "sport": "worldcup",
+      "game": "Mexico vs England",
+      "market": "prop",
+      "pick": "BTTS No (Both teams to score - No)",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "Adam Levitan / RotoWire Staff (RotoWire)",
+      "sport": "worldcup",
+      "game": "Mexico vs England",
+      "market": "prop",
+      "pick": "Harry Kane anytime goalscorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-05",
+      "result": null
+    }
+  ]
 }
