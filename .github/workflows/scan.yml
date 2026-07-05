@@ -30,7 +30,7 @@ jobs:
           ODDSPAPI_KEY: ${{ secrets.ODDSPAPI_KEY }}
         run: node scanner.js
 
-      -- name: Commit updated records
+      - name: Commit updated records
         run: |
           git config user.name "line-scanner-bot"
           git config user.email "actions@github.com"
