@@ -10,9 +10,15 @@
     },
     "worldcup": {
       "enabled": true,
+      "oddsApi": {
+        "sport": "soccer_fifa_world_cup",
+        "regions": "us",
+        "markets": "h2h,totals"
+      },
       "oddsPapi": {
         "sportId": 10,
-        "tournamentName": "FIFA World Cup"
+        "tournamentName": "FIFA World Cup",
+        "note": "Fallback only — used if The Odds API returns 404/422 for the World Cup sport key"
       }
     }
   },
@@ -22,7 +28,24 @@
     "ESPN",
     "Covers",
     "SportsLine",
-    "RotoWire"
+    "RotoWire",
+    "CBS Sports",
+    "FOX Sports",
+    "Sports Illustrated Betting",
+    "Yahoo Sports",
+    "The Athletic",
+    "Pickswise",
+    "OddsShark",
+    "VSiN",
+    "WagerTalk",
+    "Doc's Sports",
+    "Sporting News",
+    "Bleacher Report Betting",
+    "FanDuel Research",
+    "DraftKings Network",
+    "Sports Betting Dime",
+    "TheSpread",
+    "Oddschecker"
   ],
 
   "analystTiers": {
@@ -38,6 +61,7 @@
     "edgeThresholds": {
       "nbaSpreadPoints": 1.5,
       "nbaTotalPoints": 2.0,
+      "soccerTotalGoals": 0.5,
       "impliedProbabilityGapPct": 5.0
     }
   },
