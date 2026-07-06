@@ -9,6 +9,10 @@ on:
 
 permissions:
   contents: write # needed to commit records.json back
+  
+concurrency:
+  group: line-scanner
+  cancel-in-progress: false
 
 jobs:
   scan:
