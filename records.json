@@ -3,12 +3,12 @@
   "analysts": {
     "Martin Green (SportsLine)": {
       "tier": "tier1",
-      "picksTracked": 27,
+      "picksTracked": 28,
       "picksGraded": 22,
       "wins": 16,
       "losses": 6,
       "pushes": 0,
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     "Jon Eimer (SportsLine)": {
       "tier": "tier1",
@@ -156,12 +156,12 @@
     },
     "RotoWire staff": {
       "tier": "tier3",
-      "picksTracked": 3,
+      "picksTracked": 8,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     "Nick Hennion (BetMGM)": {
       "tier": "tier3",
@@ -174,21 +174,21 @@
     },
     "FanDuel Research staff": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     "Squawka staff": {
       "tier": "tier3",
-      "picksTracked": 3,
+      "picksTracked": 8,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     "Sports Betting Dime staff": {
       "tier": "tier3",
@@ -216,6 +216,204 @@
       "losses": 0,
       "pushes": 0,
       "lastSeen": "2026-07-05"
+    },
+    "Jon Eimer (SportsLine / CBS Sports)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Tom Oldfield (Covers)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "FOX Sports staff": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Bryan Logan (ClutchPoints / Yahoo Sports)": {
+      "tier": "tier3",
+      "picksTracked": 4,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Thom Cunningham (Lineups.com)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Sportytrader staff": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Sports Mole staff": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Martin Green (SportsLine/CBS Sports)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Jon Eimer (SportsLine/CBS Sports)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "VSiN staff": {
+      "tier": "tier3",
+      "picksTracked": 4,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Sports Betting Dime AI model": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Lineups.com staff (Thom Cunningham)": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Matthew Wright (SportsGambler.com)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "TipsGG Data team": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Juvefc.com staff": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "FootballPredictions.com staff": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "James Eastham (Covers)": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Yahoo Sports (Covers/James Eastham syndication)": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "OneFootball staff": {
+      "tier": "tier3",
+      "picksTracked": 3,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Juvefc staff": {
+      "tier": "tier3",
+      "picksTracked": 3,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Total Football Analysis staff": {
+      "tier": "tier3",
+      "picksTracked": 3,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
+    },
+    "Yahoo Sports staff (Round of 16 picks article)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-06"
     }
   },
   "pendingPicks": [
@@ -811,6 +1009,600 @@
       "lineAtPick": "-127",
       "record": null,
       "date": "2026-07-05",
+      "result": null
+    },
+    {
+      "analyst": "Jon Eimer (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-130",
+      "record": "25-16-2 on World Cup picks; 31-13-2 on soccer picks in 2026",
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Tom Oldfield (Covers)",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "moneyline",
+      "pick": "Spain ML",
+      "lineAtPick": "-105",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "FOX Sports staff",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "moneyline",
+      "pick": "Portugal to advance",
+      "lineAtPick": "+182",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "FOX Sports staff",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "prop",
+      "pick": "Mikel Oyarzabal anytime scorer",
+      "lineAtPick": "+105",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Bryan Logan (ClutchPoints / Yahoo Sports)",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "moneyline",
+      "pick": "Draw",
+      "lineAtPick": "+265",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Bryan Logan (ClutchPoints / Yahoo Sports)",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "+110",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "FanDuel Research staff",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "moneyline",
+      "pick": "Spain ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "prop",
+      "pick": "Both Teams to Score (Yes)",
+      "lineAtPick": "-135",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "prop",
+      "pick": "Cristiano Ronaldo anytime scorer",
+      "lineAtPick": "+200",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "moneyline",
+      "pick": "Spain ML",
+      "lineAtPick": "-111",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Thom Cunningham (Lineups.com)",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "moneyline",
+      "pick": "Draw",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Sportytrader staff",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "moneyline",
+      "pick": "Draw",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Sportytrader staff",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Sports Mole staff",
+      "sport": "worldcup",
+      "game": "Spain vs Portugal",
+      "market": "moneyline",
+      "pick": "Spain ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine/CBS Sports)",
+      "sport": "worldcup",
+      "game": "Belgium vs USA",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-140",
+      "record": "16-6 on 2026 World Cup picks",
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Jon Eimer (SportsLine/CBS Sports)",
+      "sport": "worldcup",
+      "game": "Belgium vs USA",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "+126",
+      "record": "25-16 on 2026 World Cup picks",
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff",
+      "sport": "worldcup",
+      "game": "Belgium vs USA",
+      "market": "prop",
+      "pick": "Both Teams To Score Yes",
+      "lineAtPick": "-180",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff",
+      "sport": "worldcup",
+      "game": "Belgium vs USA",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-135",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff",
+      "sport": "worldcup",
+      "game": "Belgium vs USA",
+      "market": "prop",
+      "pick": "Same Game Parlay: Both Teams To Score Yes + Over 2.5 Goals",
+      "lineAtPick": "-110",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Sports Betting Dime AI model",
+      "sport": "worldcup",
+      "game": "Belgium vs USA",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Belgium vs USA",
+      "market": "moneyline",
+      "pick": "USA to qualify (to advance)",
+      "lineAtPick": "-104",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Belgium vs USA",
+      "market": "prop",
+      "pick": "Both Teams To Score Yes",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Lineups.com staff (Thom Cunningham)",
+      "sport": "worldcup",
+      "game": "Belgium vs USA",
+      "market": "moneyline",
+      "pick": "Draw",
+      "lineAtPick": "+245",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Lineups.com staff (Thom Cunningham)",
+      "sport": "worldcup",
+      "game": "Belgium vs USA",
+      "market": "total",
+      "pick": "Over 3.5",
+      "lineAtPick": "+160",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine)",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+100",
+      "record": "16-6 on 2026 World Cup picks",
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Bryan Logan (ClutchPoints / Yahoo Sports)",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "moneyline",
+      "pick": "Argentina ML",
+      "lineAtPick": "-255",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Bryan Logan (ClutchPoints / Yahoo Sports)",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+105",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "moneyline",
+      "pick": "Argentina ML",
+      "lineAtPick": "-275",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Matthew Wright (SportsGambler.com)",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "-130",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "TipsGG Data team",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "prop",
+      "pick": "Egypt individual total corners Over 2.5",
+      "lineAtPick": "1.98",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "TipsGG Data team",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "prop",
+      "pick": "Both Teams to Score - Yes",
+      "lineAtPick": "2.35",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Juvefc.com staff",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "moneyline",
+      "pick": "Argentina ML",
+      "lineAtPick": "2/5",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Juvefc.com staff",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "11/10",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "FootballPredictions.com staff",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "moneyline",
+      "pick": "Argentina ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "FootballPredictions.com staff",
+      "sport": "worldcup",
+      "game": "Egypt vs Argentina",
+      "market": "total",
+      "pick": "Under 3.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "James Eastham (Covers)",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Switzerland ML",
+      "lineAtPick": "+260",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "James Eastham (Covers)",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+140",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Colombia ML",
+      "lineAtPick": "+125",
+      "record": "Overall 57% (80/88 Group Stage 55%, Round of 32 69%)",
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": null,
+      "record": "Overall 57% (80/88 Group Stage 55%, Round of 32 69%)",
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "prop",
+      "pick": "Luis Diaz anytime scorer",
+      "lineAtPick": null,
+      "record": "Overall 57% (80/88 Group Stage 55%, Round of 32 69%)",
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Yahoo Sports (Covers/James Eastham syndication)",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Switzerland ML",
+      "lineAtPick": "+260",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Yahoo Sports (Covers/James Eastham syndication)",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+140",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "OneFootball staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Colombia ML",
+      "lineAtPick": "+135",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "OneFootball staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "total",
+      "pick": "Under 2",
+      "lineAtPick": "+112",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "OneFootball staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "prop",
+      "pick": "Both Teams to Score - No",
+      "lineAtPick": "-128",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Colombia ML",
+      "lineAtPick": "+130",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Juvefc staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Colombia ML",
+      "lineAtPick": "11/8",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Juvefc staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "11/10",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Juvefc staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "prop",
+      "pick": "Breel Embolo anytime scorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Total Football Analysis staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Colombia ML",
+      "lineAtPick": "11/8",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Total Football Analysis staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "11/10",
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Total Football Analysis staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "prop",
+      "pick": "Luis Diaz anytime scorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
+      "result": null
+    },
+    {
+      "analyst": "Yahoo Sports staff (Round of 16 picks article)",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Colombia ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-06",
       "result": null
     }
   ]
