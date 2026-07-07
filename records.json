@@ -156,7 +156,7 @@
     },
     "RotoWire staff": {
       "tier": "tier3",
-      "picksTracked": 23,
+      "picksTracked": 26,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -183,7 +183,7 @@
     },
     "Squawka staff": {
       "tier": "tier3",
-      "picksTracked": 27,
+      "picksTracked": 28,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -219,7 +219,7 @@
     },
     "Jon Eimer (SportsLine / CBS Sports)": {
       "tier": "tier3",
-      "picksTracked": 6,
+      "picksTracked": 7,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -264,12 +264,12 @@
     },
     "Sportytrader staff": {
       "tier": "tier3",
-      "picksTracked": 2,
+      "picksTracked": 3,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-07"
     },
     "Sports Mole staff": {
       "tier": "tier3",
@@ -345,12 +345,12 @@
     },
     "Juvefc.com staff": {
       "tier": "tier3",
-      "picksTracked": 5,
+      "picksTracked": 8,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-07"
     },
     "FootballPredictions.com staff": {
       "tier": "tier3",
@@ -363,7 +363,7 @@
     },
     "James Eastham (Covers)": {
       "tier": "tier3",
-      "picksTracked": 10,
+      "picksTracked": 11,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -462,7 +462,7 @@
     },
     "OddsShark staff": {
       "tier": "tier3",
-      "picksTracked": 6,
+      "picksTracked": 8,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -633,7 +633,7 @@
     },
     "Peter (Sports Illustrated Betting)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 3,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -3599,6 +3599,160 @@
       "game": "Colombia vs Switzerland",
       "market": "moneyline",
       "pick": "Colombia ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "Jon Eimer (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+132",
+      "record": "25-16-2 on World Cup picks",
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "James Eastham (Covers)",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Switzerland ML",
+      "lineAtPick": "+260",
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "OddsShark staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Colombia ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "OddsShark staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "prop",
+      "pick": "Breel Embolo anytime goalscorer",
+      "lineAtPick": "+285",
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "prop",
+      "pick": "Both teams to score - Yes",
+      "lineAtPick": "+102",
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "prop",
+      "pick": "Breel Embolo anytime goalscorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "Peter (Sports Illustrated Betting)",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Draw",
+      "lineAtPick": "+210",
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "Peter (Sports Illustrated Betting)",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "prop",
+      "pick": "Dan Ndoye anytime goalscorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Colombia ML",
+      "lineAtPick": null,
+      "record": "70% hit rate on 93 predictions",
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "Juvefc.com staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "moneyline",
+      "pick": "Colombia ML",
+      "lineAtPick": "11/8",
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "Juvefc.com staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "11/10",
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "Juvefc.com staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "prop",
+      "pick": "Breel Embolo anytime goalscorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-07",
+      "result": null
+    },
+    {
+      "analyst": "Sportytrader staff",
+      "sport": "worldcup",
+      "game": "Colombia vs Switzerland",
+      "market": "total",
+      "pick": "Under 2.5",
       "lineAtPick": null,
       "record": null,
       "date": "2026-07-07",
