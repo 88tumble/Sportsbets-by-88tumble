@@ -435,7 +435,7 @@
     },
     "Martin Green (SportsLine / CBS Sports)": {
       "tier": "tier3",
-      "picksTracked": 7,
+      "picksTracked": 8,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -561,16 +561,16 @@
     },
     "ClutchPoints staff (Yahoo Sports)": {
       "tier": "tier3",
-      "picksTracked": 2,
+      "picksTracked": 4,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-08"
     },
     "Squawka staff (Squawka)": {
       "tier": "tier3",
-      "picksTracked": 6,
+      "picksTracked": 9,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -579,16 +579,16 @@
     },
     "VSiN staff (VSiN)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-08"
     },
     "OddsShark staff (OddsShark)": {
       "tier": "tier3",
-      "picksTracked": 4,
+      "picksTracked": 6,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -624,12 +624,12 @@
     },
     "DraftKings Network staff (DraftKings Network)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-08"
     },
     "Peter (Sports Illustrated Betting)": {
       "tier": "tier3",
@@ -687,7 +687,7 @@
     },
     "FanDuel Research staff (FanDuel Research)": {
       "tier": "tier3",
-      "picksTracked": 2,
+      "picksTracked": 4,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -695,6 +695,15 @@
       "lastSeen": "2026-07-08"
     },
     "Goal.com staff (Goal.com)": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-08"
+    },
+    "Topendsports staff (Topendsports)": {
       "tier": "tier3",
       "picksTracked": 2,
       "picksGraded": 0,
@@ -3946,6 +3955,160 @@
       "market": "moneyline",
       "pick": "Draw or Morocco (Double Chance)",
       "lineAtPick": "2.40",
+      "record": null,
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-104",
+      "record": "18-7 on World Cup picks",
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "ClutchPoints staff (Yahoo Sports)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-175",
+      "record": null,
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "ClutchPoints staff (Yahoo Sports)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "-120",
+      "record": null,
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff (Squawka)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-175",
+      "record": "69% hit rate (95 predictions settled)",
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff (Squawka)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": null,
+      "record": "69% hit rate (95 predictions settled)",
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff (Squawka)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "prop",
+      "pick": "Kylian Mbappe anytime goalscorer",
+      "lineAtPick": null,
+      "record": "69% hit rate (95 predictions settled)",
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "OddsShark staff (OddsShark)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "OddsShark staff (OddsShark)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "prop",
+      "pick": "Achraf Hakimi anytime goalscorer",
+      "lineAtPick": "+190",
+      "record": null,
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff (VSiN)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-170",
+      "record": null,
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "FanDuel Research staff (FanDuel Research)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "FanDuel Research staff (FanDuel Research)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "prop",
+      "pick": "Both Teams to Score - Yes",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "Topendsports staff (Topendsports)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "prop",
+      "pick": "Both Teams to Score - Yes",
+      "lineAtPick": "-102",
+      "record": null,
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "Topendsports staff (Topendsports)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-08",
+      "result": null
+    },
+    {
+      "analyst": "DraftKings Network staff (DraftKings Network)",
+      "sport": "worldcup",
+      "game": "Morocco vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-175",
       "record": null,
       "date": "2026-07-08",
       "result": null
