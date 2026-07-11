@@ -12,12 +12,12 @@
     },
     "Jon Eimer (SportsLine)": {
       "tier": "tier1",
-      "picksTracked": 47,
+      "picksTracked": 48,
       "picksGraded": 40,
       "wins": 25,
       "losses": 15,
       "pushes": 0,
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-11"
     },
     "Brad Thomas / Martin Green / Brandt Sutton / Matt Severance (SportsLine)": {
       "tier": "tier3",
@@ -75,12 +75,12 @@
     },
     "Matt Severance (SportsLine)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-11"
     },
     "Brad Thomas (SportsLine / CBS Sports)": {
       "tier": "tier3",
@@ -102,7 +102,7 @@
     },
     "Chris Vasile (Covers)": {
       "tier": "tier3",
-      "picksTracked": 10,
+      "picksTracked": 12,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -156,7 +156,7 @@
     },
     "RotoWire staff": {
       "tier": "tier3",
-      "picksTracked": 42,
+      "picksTracked": 47,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -174,39 +174,39 @@
     },
     "FanDuel Research staff": {
       "tier": "tier3",
-      "picksTracked": 10,
+      "picksTracked": 11,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-11"
     },
     "Squawka staff": {
       "tier": "tier3",
-      "picksTracked": 62,
+      "picksTracked": 70,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-11"
     },
     "Sports Betting Dime staff": {
-      "tier": "tier3",
-      "picksTracked": 3,
-      "picksGraded": 0,
-      "wins": 0,
-      "losses": 0,
-      "pushes": 0,
-      "lastSeen": "2026-07-06"
-    },
-    "CBS Sports staff": {
       "tier": "tier3",
       "picksTracked": 4,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-11"
+    },
+    "CBS Sports staff": {
+      "tier": "tier3",
+      "picksTracked": 5,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-11"
     },
     "sportsgambler.com staff": {
       "tier": "tier3",
@@ -237,7 +237,7 @@
     },
     "FOX Sports staff": {
       "tier": "tier3",
-      "picksTracked": 11,
+      "picksTracked": 12,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -246,21 +246,21 @@
     },
     "Bryan Logan (ClutchPoints / Yahoo Sports)": {
       "tier": "tier3",
-      "picksTracked": 12,
+      "picksTracked": 14,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-11"
     },
     "Thom Cunningham (Lineups.com)": {
       "tier": "tier3",
-      "picksTracked": 5,
+      "picksTracked": 7,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-11"
     },
     "Sportytrader staff": {
       "tier": "tier3",
@@ -282,12 +282,12 @@
     },
     "Martin Green (SportsLine/CBS Sports)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-11"
     },
     "Jon Eimer (SportsLine/CBS Sports)": {
       "tier": "tier3",
@@ -462,7 +462,7 @@
     },
     "OddsShark staff": {
       "tier": "tier3",
-      "picksTracked": 18,
+      "picksTracked": 19,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -633,12 +633,12 @@
     },
     "Peter (Sports Illustrated Betting)": {
       "tier": "tier3",
-      "picksTracked": 4,
+      "picksTracked": 5,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-11"
     },
     "Matthew Wright (SportsGambler)": {
       "tier": "tier3",
@@ -651,7 +651,7 @@
     },
     "Pickswise staff": {
       "tier": "tier3",
-      "picksTracked": 20,
+      "picksTracked": 23,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -669,7 +669,7 @@
     },
     "DraftKings Network staff": {
       "tier": "tier3",
-      "picksTracked": 2,
+      "picksTracked": 3,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -912,12 +912,12 @@
     },
     "Racing Post staff": {
       "tier": "tier3",
-      "picksTracked": 2,
+      "picksTracked": 3,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-11"
     },
     "xGscore staff": {
       "tier": "tier3",
@@ -993,7 +993,7 @@
     },
     "Jason (Covers)": {
       "tier": "tier3",
-      "picksTracked": 4,
+      "picksTracked": 5,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -1046,6 +1046,24 @@
       "lastSeen": "2026-07-11"
     },
     "Pickswise staff (Pickswise)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-11"
+    },
+    "Brandt Sutton (SportsLine)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-11"
+    },
+    "Sam (Covers staff)": {
       "tier": "tier3",
       "picksTracked": 1,
       "picksGraded": 0,
@@ -7079,6 +7097,402 @@
       "game": "Switzerland vs Argentina",
       "market": "moneyline",
       "pick": "Argentina ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Matt Severance (SportsLine)",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "moneyline",
+      "pick": "England ML (win in regulation)",
+      "lineAtPick": "-110",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Brandt Sutton (SportsLine)",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Jon Eimer (SportsLine)",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-152",
+      "record": "25-16-2 on World Cup picks",
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "FOX Sports staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "moneyline",
+      "pick": "England ML",
+      "lineAtPick": "-115",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-130",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "CBS Sports staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "moneyline",
+      "pick": "England 2, Norway 1",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "moneyline",
+      "pick": "England to qualify (to advance)",
+      "lineAtPick": "-215",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "prop",
+      "pick": "Harry Kane anytime scorer",
+      "lineAtPick": "-105",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Sam (Covers staff)",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Chris Vasile (Covers)",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "prop",
+      "pick": "Kane anytime scorer + Haaland anytime scorer SGP",
+      "lineAtPick": "+300 (parlay)",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Sports Betting Dime staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-127 (Kalshi) / -138 (books)",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "DraftKings Network staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "FanDuel Research staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "moneyline",
+      "pick": "England to advance (to qualify)",
+      "lineAtPick": "-205",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "moneyline",
+      "pick": "England to win",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "prop",
+      "pick": "Harry Kane anytime scorer",
+      "lineAtPick": "Evens",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "prop",
+      "pick": "Both Teams to Score - Yes",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "prop",
+      "pick": "Correct Score: Norway 1-2 England",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Peter (Sports Illustrated Betting)",
+      "sport": "worldcup",
+      "game": "England vs Norway",
+      "market": "prop",
+      "pick": "Haaland anytime scorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine/CBS Sports)",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+124",
+      "record": "18-7 on World Cup picks",
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Bryan Logan (ClutchPoints / Yahoo Sports)",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "moneyline",
+      "pick": "Argentina ML",
+      "lineAtPick": "-145",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Bryan Logan (ClutchPoints / Yahoo Sports)",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "-150",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Jason (Covers)",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "moneyline",
+      "pick": "Argentina ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Chris Vasile (Covers)",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "prop",
+      "pick": "Messi anytime scorer + Breel Embolo anytime scorer parlay",
+      "lineAtPick": "+700",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "OddsShark staff",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "moneyline",
+      "pick": "Argentina ML",
+      "lineAtPick": "-145",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "moneyline",
+      "pick": "Argentina to win in 90 minutes",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "prop",
+      "pick": "Messi anytime scorer",
+      "lineAtPick": "+100",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "prop",
+      "pick": "Switzerland shots on target 3+ (E. Martinez saves 3+)",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "prop",
+      "pick": "Cristian Romero 2+ tackles",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Thom Cunningham (Lineups.com)",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+120",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Thom Cunningham (Lineups.com)",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "prop",
+      "pick": "BTTS Yes",
+      "lineAtPick": "+100",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Racing Post staff",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "moneyline",
+      "pick": "Switzerland or Draw double chance",
+      "lineAtPick": "23-20",
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "moneyline",
+      "pick": "Argentina ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-11",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "Switzerland vs Argentina",
+      "market": "prop",
+      "pick": "Messi anytime scorer",
       "lineAtPick": null,
       "record": null,
       "date": "2026-07-11",
