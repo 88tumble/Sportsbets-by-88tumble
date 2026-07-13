@@ -282,30 +282,30 @@
     },
     "Martin Green (SportsLine/CBS Sports)": {
       "tier": "tier3",
+      "picksTracked": 3,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-13"
+    },
+    "Jon Eimer (SportsLine/CBS Sports)": {
+      "tier": "tier3",
       "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-11"
-    },
-    "Jon Eimer (SportsLine/CBS Sports)": {
-      "tier": "tier3",
-      "picksTracked": 1,
-      "picksGraded": 0,
-      "wins": 0,
-      "losses": 0,
-      "pushes": 0,
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-13"
     },
     "VSiN staff": {
       "tier": "tier3",
-      "picksTracked": 20,
+      "picksTracked": 21,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-13"
     },
     "Sports Betting Dime AI model": {
       "tier": "tier3",
@@ -651,12 +651,12 @@
     },
     "Pickswise staff": {
       "tier": "tier3",
-      "picksTracked": 23,
+      "picksTracked": 25,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-13"
     },
     "Saikat (Football Whispers)": {
       "tier": "tier3",
@@ -993,12 +993,12 @@
     },
     "Jason (Covers)": {
       "tier": "tier3",
-      "picksTracked": 5,
+      "picksTracked": 8,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-13"
     },
     "Sam Farley (Covers)": {
       "tier": "tier3",
@@ -1118,6 +1118,69 @@
       "lastSeen": "2026-07-13"
     },
     "John Carbone (lowerbuckstimes.com / Sports Betting Dime network)": {
+      "tier": "tier3",
+      "picksTracked": 4,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-13"
+    },
+    "Yahoo Sports/ClutchPoints staff": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-13"
+    },
+    "Adam (RotoWire)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-13"
+    },
+    "Victoria Matiash (ESPN)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-13"
+    },
+    "Liz Loza (ESPN)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-13"
+    },
+    "Al MacMillan (Winners and Whiners)": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-13"
+    },
+    "Bleacher Report staff": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-13"
+    },
+    "John Carbone (LowerBucksTimes/syndicated)": {
       "tier": "tier3",
       "picksTracked": 4,
       "picksGraded": 0,
@@ -7746,6 +7809,226 @@
       "market": "prop",
       "pick": "Both Teams To Score: Yes",
       "lineAtPick": "-150",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine/CBS Sports)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-112",
+      "record": "19-7 on World Cup picks",
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Jon Eimer (SportsLine/CBS Sports)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": "25-16-2 on World Cup picks",
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Yahoo Sports/ClutchPoints staff",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "moneyline",
+      "pick": "France to Advance",
+      "lineAtPick": "-155",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Yahoo Sports/ClutchPoints staff",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "-110",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Adam (RotoWire)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "moneyline",
+      "pick": "Spain ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Jason (Covers)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "moneyline",
+      "pick": "France ML (win in regulation)",
+      "lineAtPick": "+130",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Jason (Covers)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-120",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Jason (Covers)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "prop",
+      "pick": "France to score 2+ goals in regulation",
+      "lineAtPick": "+122",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Victoria Matiash (ESPN)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "-105",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Liz Loza (ESPN)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "prop",
+      "pick": "Ousmane Dembélé anytime scorer / shots on target",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "+135",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Al MacMillan (Winners and Whiners)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Al MacMillan (Winners and Whiners)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "total",
+      "pick": "Under 3.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Bleacher Report staff",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "John Carbone (LowerBucksTimes/syndicated)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "+135",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "John Carbone (LowerBucksTimes/syndicated)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-115",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "John Carbone (LowerBucksTimes/syndicated)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "moneyline",
+      "pick": "France to qualify (advance)",
+      "lineAtPick": "-155",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "John Carbone (LowerBucksTimes/syndicated)",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "prop",
+      "pick": "Both Teams To Score: Yes",
+      "lineAtPick": "-150",
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "prop",
+      "pick": "Lamine Yamal 1+ shot on target",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-13",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Spain vs France",
+      "market": "prop",
+      "pick": "Pedro Porro 1+ shot",
+      "lineAtPick": "-138",
       "record": null,
       "date": "2026-07-13",
       "result": null
