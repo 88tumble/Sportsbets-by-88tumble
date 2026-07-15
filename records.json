@@ -93,12 +93,12 @@
     },
     "Sam (Covers)": {
       "tier": "tier3",
-      "picksTracked": 8,
+      "picksTracked": 10,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Chris Vasile (Covers)": {
       "tier": "tier3",
@@ -219,12 +219,12 @@
     },
     "Jon Eimer (SportsLine / CBS Sports)": {
       "tier": "tier3",
-      "picksTracked": 13,
+      "picksTracked": 14,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Tom Oldfield (Covers)": {
       "tier": "tier3",
@@ -435,12 +435,12 @@
     },
     "Martin Green (SportsLine / CBS Sports)": {
       "tier": "tier3",
-      "picksTracked": 20,
+      "picksTracked": 21,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Bradley Gibbs (Sportytrader)": {
       "tier": "tier3",
@@ -651,12 +651,12 @@
     },
     "Pickswise staff": {
       "tier": "tier3",
-      "picksTracked": 29,
+      "picksTracked": 32,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Saikat (Football Whispers)": {
       "tier": "tier3",
@@ -1137,30 +1137,30 @@
     },
     "Adam (RotoWire)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-15"
     },
     "Victoria Matiash (ESPN)": {
+      "tier": "tier3",
+      "picksTracked": 6,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-15"
+    },
+    "Liz Loza (ESPN)": {
       "tier": "tier3",
       "picksTracked": 5,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
-    },
-    "Liz Loza (ESPN)": {
-      "tier": "tier3",
-      "picksTracked": 4,
-      "picksGraded": 0,
-      "wins": 0,
-      "losses": 0,
-      "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Al MacMillan (Winners and Whiners)": {
       "tier": "tier3",
@@ -1236,30 +1236,30 @@
     },
     "Jeff Carlisle (ESPN)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Bill Connelly (ESPN)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Rob Dawson (ESPN)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Tom Hamilton (ESPN)": {
       "tier": "tier3",
@@ -1272,12 +1272,12 @@
     },
     "Squawka Signal model (Squawka)": {
       "tier": "tier3",
-      "picksTracked": 6,
+      "picksTracked": 9,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Sam Profeta (LegalSportsBetting)": {
       "tier": "tier3",
@@ -1350,6 +1350,42 @@
       "losses": 0,
       "pushes": 0,
       "lastSeen": "2026-07-14"
+    },
+    "Iain MacMillan (Sports Illustrated Betting)": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-15"
+    },
+    "Becherano (ESPN)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-15"
+    },
+    "Hamilton (ESPN)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-15"
+    },
+    "Griffin Wong (DraftKings Network)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-15"
     }
   },
   "pendingPicks": [
@@ -8919,6 +8955,237 @@
       "lineAtPick": "+160",
       "record": null,
       "date": "2026-07-14",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+148",
+      "record": "19-8 on World Cup picks (+898.5)",
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Adam (RotoWire)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML",
+      "lineAtPick": "+172",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Sam (Covers)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Sam (Covers)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "Draw",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Julian Alvarez anytime scorer",
+      "lineAtPick": "+250",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Lionel Messi to assist",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Squawka Signal model (Squawka)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "Argentina to advance to final",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Squawka Signal model (Squawka)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Squawka Signal model (Squawka)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Lionel Messi anytime scorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Iain MacMillan (Sports Illustrated Betting)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "Argentina ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Iain MacMillan (Sports Illustrated Betting)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Lionel Messi anytime scorer",
+      "lineAtPick": "+125",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Victoria Matiash (ESPN)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Lionel Messi anytime scorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Liz Loza (ESPN)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Argentina fouls committed (over/favor Argentina fouling)",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Becherano (ESPN)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "Argentina ML (via penalty shootout, predicted 2-2 AET)",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Jeff Carlisle (ESPN)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Bill Connelly (ESPN)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Rob Dawson (ESPN)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML (via penalty shootout, predicted 2-2 AET)",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Hamilton (ESPN)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML (predicted 3-2 AET)",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Griffin Wong (DraftKings Network)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML",
+      "lineAtPick": "+165",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Jon Eimer (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England to advance",
+      "lineAtPick": "-126",
+      "record": "25-18-2 on World Cup picks",
+      "date": "2026-07-15",
       "result": null
     }
   ]
