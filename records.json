@@ -93,7 +93,7 @@
     },
     "Sam (Covers)": {
       "tier": "tier3",
-      "picksTracked": 10,
+      "picksTracked": 12,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -219,7 +219,7 @@
     },
     "Jon Eimer (SportsLine / CBS Sports)": {
       "tier": "tier3",
-      "picksTracked": 14,
+      "picksTracked": 15,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -237,12 +237,12 @@
     },
     "FOX Sports staff": {
       "tier": "tier3",
-      "picksTracked": 15,
+      "picksTracked": 16,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Bryan Logan (ClutchPoints / Yahoo Sports)": {
       "tier": "tier3",
@@ -435,7 +435,7 @@
     },
     "Martin Green (SportsLine / CBS Sports)": {
       "tier": "tier3",
-      "picksTracked": 21,
+      "picksTracked": 24,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -462,12 +462,12 @@
     },
     "OddsShark staff": {
       "tier": "tier3",
-      "picksTracked": 21,
+      "picksTracked": 23,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Bryan Logan (ClutchPoints)": {
       "tier": "tier3",
@@ -651,7 +651,7 @@
     },
     "Pickswise staff": {
       "tier": "tier3",
-      "picksTracked": 32,
+      "picksTracked": 35,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -957,12 +957,12 @@
     },
     "Alex Blowers (VSiN)": {
       "tier": "tier3",
-      "picksTracked": 3,
+      "picksTracked": 4,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Michael Dolan (VSiN)": {
       "tier": "tier3",
@@ -1137,7 +1137,7 @@
     },
     "Adam (RotoWire)": {
       "tier": "tier3",
-      "picksTracked": 2,
+      "picksTracked": 6,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -1218,12 +1218,12 @@
     },
     "Yahoo Sports staff (Yahoo Sports)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     "Lizzy Becherano (ESPN)": {
       "tier": "tier3",
@@ -1272,7 +1272,7 @@
     },
     "Squawka Signal model (Squawka)": {
       "tier": "tier3",
-      "picksTracked": 9,
+      "picksTracked": 12,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -1379,6 +1379,42 @@
       "lastSeen": "2026-07-15"
     },
     "Griffin Wong (DraftKings Network)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-15"
+    },
+    "WagerTalk staff": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-15"
+    },
+    "Lee Shipley (Yahoo Sports / Stadium Rant)": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-15"
+    },
+    "Craig Dudek (Sporting News / Yahoo Sports)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-15"
+    },
+    "culture.org staff": {
       "tier": "tier3",
       "picksTracked": 1,
       "picksGraded": 0,
@@ -9185,6 +9221,292 @@
       "pick": "England to advance",
       "lineAtPick": "-126",
       "record": "25-18-2 on World Cup picks",
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+148",
+      "record": "19-8 on World Cup picks",
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Harry Kane to score anytime",
+      "lineAtPick": "+145",
+      "record": "19-8 on World Cup picks",
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England to advance",
+      "lineAtPick": "-126",
+      "record": "19-8 on World Cup picks",
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Jon Eimer (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+148",
+      "record": "25-16-2 on World Cup picks",
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Adam (RotoWire)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML",
+      "lineAtPick": "+170",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Adam (RotoWire)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "+130",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Adam (RotoWire)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Harry Kane to score anytime",
+      "lineAtPick": "+170",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Adam (RotoWire)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Lionel Messi to score anytime",
+      "lineAtPick": "+160",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "WagerTalk staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML (90 minutes)",
+      "lineAtPick": "+160",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Sam (Covers)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Sam (Covers)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "FOX Sports staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England to advance",
+      "lineAtPick": "-122",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "OddsShark staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "Argentina Draw No Bet",
+      "lineAtPick": "+108",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "OddsShark staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Harry Kane to score anytime",
+      "lineAtPick": "+160",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Alex Blowers (VSiN)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England to advance",
+      "lineAtPick": "-125",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Julian Alvarez to score anytime",
+      "lineAtPick": "+250",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Lionel Messi to assist anytime",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Harry Kane to score anytime",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Squawka Signal model (Squawka)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "Argentina to advance",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Squawka Signal model (Squawka)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Squawka Signal model (Squawka)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "prop",
+      "pick": "Lionel Messi to score anytime",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Yahoo Sports staff (Yahoo Sports)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England ML (90 minutes)",
+      "lineAtPick": "+160",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Lee Shipley (Yahoo Sports / Stadium Rant)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England to advance",
+      "lineAtPick": "-135",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Lee Shipley (Yahoo Sports / Stadium Rant)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "-160",
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "Craig Dudek (Sporting News / Yahoo Sports)",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "England to advance",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "culture.org staff",
+      "sport": "worldcup",
+      "game": "Argentina vs England",
+      "market": "moneyline",
+      "pick": "Argentina to advance",
+      "lineAtPick": "+110",
+      "record": null,
       "date": "2026-07-15",
       "result": null
     }
