@@ -102,12 +102,12 @@
     },
     "Chris Vasile (Covers)": {
       "tier": "tier3",
-      "picksTracked": 12,
+      "picksTracked": 13,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-17"
     },
     "RotoWire": {
       "tier": "tier3",
@@ -156,7 +156,7 @@
     },
     "RotoWire staff": {
       "tier": "tier3",
-      "picksTracked": 48,
+      "picksTracked": 51,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -174,7 +174,7 @@
     },
     "FanDuel Research staff": {
       "tier": "tier3",
-      "picksTracked": 12,
+      "picksTracked": 13,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -183,7 +183,7 @@
     },
     "Squawka staff": {
       "tier": "tier3",
-      "picksTracked": 74,
+      "picksTracked": 79,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -300,7 +300,7 @@
     },
     "VSiN staff": {
       "tier": "tier3",
-      "picksTracked": 23,
+      "picksTracked": 26,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -462,7 +462,7 @@
     },
     "OddsShark staff": {
       "tier": "tier3",
-      "picksTracked": 24,
+      "picksTracked": 25,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -651,7 +651,7 @@
     },
     "Pickswise staff": {
       "tier": "tier3",
-      "picksTracked": 36,
+      "picksTracked": 38,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
@@ -993,12 +993,12 @@
     },
     "Jason (Covers)": {
       "tier": "tier3",
-      "picksTracked": 8,
+      "picksTracked": 9,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-17"
     },
     "Sam Farley (Covers)": {
       "tier": "tier3",
@@ -1209,12 +1209,12 @@
     },
     "Jon \"Buckets\" Eimer (SportsLine)": {
       "tier": "tier3",
-      "picksTracked": 2,
+      "picksTracked": 3,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-17"
     },
     "Yahoo Sports staff (Yahoo Sports)": {
       "tier": "tier3",
@@ -1422,6 +1422,15 @@
       "losses": 0,
       "pushes": 0,
       "lastSeen": "2026-07-15"
+    },
+    "SBGGlobal staff": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-17"
     }
   },
   "pendingPicks": [
@@ -9638,6 +9647,226 @@
       "market": "moneyline",
       "pick": "France ML",
       "lineAtPick": "-110",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Jon \"Buckets\" Eimer (SportsLine)",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": "25-18-2 on WC picks, 31-13-2 on Champions League picks in 2026",
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Jason (Covers)",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-170 (Kalshi)",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Chris Vasile (Covers)",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Over 3.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Kylian Mbappe anytime goalscorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "OddsShark staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-110 (DraftKings)",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-110",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "France Team Goals Over 1.5",
+      "lineAtPick": "-191",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Kylian Mbappe anytime goalscorer",
+      "lineAtPick": "-145",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "+175",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Both Teams to Score - Yes",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Kylian Mbappe anytime goalscorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Correct Score: France 2-1",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "FanDuel Research staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-110 (FanDuel, 90-min)",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "SBGGlobal staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "SBGGlobal staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Over (total goals)",
+      "lineAtPick": null,
       "record": null,
       "date": "2026-07-17",
       "result": null
