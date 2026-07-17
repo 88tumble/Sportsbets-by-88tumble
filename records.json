@@ -147,21 +147,21 @@
     },
     "Covers staff": {
       "tier": "tier3",
-      "picksTracked": 5,
+      "picksTracked": 7,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-17"
     },
     "RotoWire staff": {
       "tier": "tier3",
-      "picksTracked": 47,
+      "picksTracked": 48,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-17"
     },
     "Nick Hennion (BetMGM)": {
       "tier": "tier3",
@@ -174,21 +174,21 @@
     },
     "FanDuel Research staff": {
       "tier": "tier3",
-      "picksTracked": 11,
+      "picksTracked": 12,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-17"
     },
     "Squawka staff": {
       "tier": "tier3",
-      "picksTracked": 70,
+      "picksTracked": 74,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-17"
     },
     "Sports Betting Dime staff": {
       "tier": "tier3",
@@ -300,12 +300,12 @@
     },
     "VSiN staff": {
       "tier": "tier3",
-      "picksTracked": 21,
+      "picksTracked": 23,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-17"
     },
     "Sports Betting Dime AI model": {
       "tier": "tier3",
@@ -462,12 +462,12 @@
     },
     "OddsShark staff": {
       "tier": "tier3",
-      "picksTracked": 23,
+      "picksTracked": 24,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-17"
     },
     "Bryan Logan (ClutchPoints)": {
       "tier": "tier3",
@@ -651,12 +651,12 @@
     },
     "Pickswise staff": {
       "tier": "tier3",
-      "picksTracked": 35,
+      "picksTracked": 36,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-17"
     },
     "Saikat (Football Whispers)": {
       "tier": "tier3",
@@ -9508,6 +9508,138 @@
       "lineAtPick": "+110",
       "record": null,
       "date": "2026-07-15",
+      "result": null
+    },
+    {
+      "analyst": "OddsShark staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-115",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML (SGP: France ML + France Team Total Goals Over 1.5)",
+      "lineAtPick": "+110 (SGP)",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Kylian Mbappé Anytime Goalscorer",
+      "lineAtPick": "-145",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": "+175",
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Kylian Mbappe Anytime Goalscorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Both Teams to Score Yes",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Covers staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Covers staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "FanDuel Research staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-110",
+      "record": null,
+      "date": "2026-07-17",
       "result": null
     }
   ]
