@@ -102,12 +102,12 @@
     },
     "Chris Vasile (Covers)": {
       "tier": "tier3",
-      "picksTracked": 13,
+      "picksTracked": 15,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     "RotoWire": {
       "tier": "tier3",
@@ -156,12 +156,12 @@
     },
     "RotoWire staff": {
       "tier": "tier3",
-      "picksTracked": 51,
+      "picksTracked": 55,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     "Nick Hennion (BetMGM)": {
       "tier": "tier3",
@@ -183,12 +183,12 @@
     },
     "Squawka staff": {
       "tier": "tier3",
-      "picksTracked": 79,
+      "picksTracked": 84,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     "Sports Betting Dime staff": {
       "tier": "tier3",
@@ -219,12 +219,12 @@
     },
     "Jon Eimer (SportsLine / CBS Sports)": {
       "tier": "tier3",
-      "picksTracked": 15,
+      "picksTracked": 16,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-18"
     },
     "Tom Oldfield (Covers)": {
       "tier": "tier3",
@@ -237,12 +237,12 @@
     },
     "FOX Sports staff": {
       "tier": "tier3",
-      "picksTracked": 16,
+      "picksTracked": 17,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-18"
     },
     "Bryan Logan (ClutchPoints / Yahoo Sports)": {
       "tier": "tier3",
@@ -435,12 +435,12 @@
     },
     "Martin Green (SportsLine / CBS Sports)": {
       "tier": "tier3",
-      "picksTracked": 24,
+      "picksTracked": 25,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-18"
     },
     "Bradley Gibbs (Sportytrader)": {
       "tier": "tier3",
@@ -462,12 +462,12 @@
     },
     "OddsShark staff": {
       "tier": "tier3",
-      "picksTracked": 25,
+      "picksTracked": 26,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     "Bryan Logan (ClutchPoints)": {
       "tier": "tier3",
@@ -651,12 +651,12 @@
     },
     "Pickswise staff": {
       "tier": "tier3",
-      "picksTracked": 38,
+      "picksTracked": 40,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     "Saikat (Football Whispers)": {
       "tier": "tier3",
@@ -957,12 +957,12 @@
     },
     "Alex Blowers (VSiN)": {
       "tier": "tier3",
-      "picksTracked": 4,
+      "picksTracked": 7,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-18"
     },
     "Michael Dolan (VSiN)": {
       "tier": "tier3",
@@ -1074,12 +1074,12 @@
     },
     "Jason (Covers staff)": {
       "tier": "tier3",
-      "picksTracked": 1,
+      "picksTracked": 2,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-18"
     },
     "Paul Carr (Yahoo Sports)": {
       "tier": "tier3",
@@ -1146,21 +1146,21 @@
     },
     "Victoria Matiash (ESPN)": {
       "tier": "tier3",
+      "picksTracked": 7,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-18"
+    },
+    "Liz Loza (ESPN)": {
+      "tier": "tier3",
       "picksTracked": 6,
       "picksGraded": 0,
       "wins": 0,
       "losses": 0,
       "pushes": 0,
-      "lastSeen": "2026-07-15"
-    },
-    "Liz Loza (ESPN)": {
-      "tier": "tier3",
-      "picksTracked": 5,
-      "picksGraded": 0,
-      "wins": 0,
-      "losses": 0,
-      "pushes": 0,
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-18"
     },
     "Al MacMillan (Winners and Whiners)": {
       "tier": "tier3",
@@ -1431,6 +1431,33 @@
       "losses": 0,
       "pushes": 0,
       "lastSeen": "2026-07-17"
+    },
+    "Andrew Reid (Sportsbook Review)": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-18"
+    },
+    "Deadspin staff": {
+      "tier": "tier3",
+      "picksTracked": 2,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-18"
+    },
+    "VSiN staff (second article)": {
+      "tier": "tier3",
+      "picksTracked": 1,
+      "picksGraded": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "lastSeen": "2026-07-18"
     }
   },
   "pendingPicks": [
@@ -9869,6 +9896,314 @@
       "lineAtPick": null,
       "record": null,
       "date": "2026-07-17",
+      "result": null
+    },
+    {
+      "analyst": "Jon Eimer (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": "-235",
+      "record": "27-18-2 on WC picks; 31-13-2 on Champions League picks in 2026",
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Jason (Covers staff)",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-170",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Chris Vasile (Covers)",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "France 2-1 England (correct score)",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Over 3.5",
+      "lineAtPick": "+110",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-109",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Kylian Mbappe anytime goalscorer",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Andrew Reid (Sportsbook Review)",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Andrew Reid (Sportsbook Review)",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Rayan Cherki anytime goalscorer",
+      "lineAtPick": "+240",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": "71% hit rate on 99 World Cup predictions settled",
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Kylian Mbappe anytime goalscorer",
+      "lineAtPick": null,
+      "record": "71% hit rate on 99 World Cup predictions settled",
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Both Teams to Score - Yes",
+      "lineAtPick": null,
+      "record": "71% hit rate on 99 World Cup predictions settled",
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Over 2.5",
+      "lineAtPick": null,
+      "record": "71% hit rate on 99 World Cup predictions settled",
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Squawka staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "France 2-1 England (correct score)",
+      "lineAtPick": null,
+      "record": "71% hit rate on 99 World Cup predictions settled",
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "FOX Sports staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "prop",
+      "pick": "Kylian Mbappe anytime goalscorer",
+      "lineAtPick": "-185",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "OddsShark staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": "-110",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Under 3.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Deadspin staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "moneyline",
+      "pick": "France ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Deadspin staff",
+      "sport": "worldcup",
+      "game": "England vs France",
+      "market": "total",
+      "pick": "Under 3.5",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Martin Green (SportsLine / CBS Sports)",
+      "sport": "worldcup",
+      "game": "Argentina vs Spain",
+      "market": "total",
+      "pick": "Under 2.5",
+      "lineAtPick": null,
+      "record": "20-9 on World Cup picks (+904)",
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Alex Blowers (VSiN)",
+      "sport": "worldcup",
+      "game": "Argentina vs Spain",
+      "market": "prop",
+      "pick": "Second Half Highest Scoring Half",
+      "lineAtPick": "-105",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Alex Blowers (VSiN)",
+      "sport": "worldcup",
+      "game": "Argentina vs Spain",
+      "market": "prop",
+      "pick": "Spain to Score First",
+      "lineAtPick": "-125",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Alex Blowers (VSiN)",
+      "sport": "worldcup",
+      "game": "Argentina vs Spain",
+      "market": "moneyline",
+      "pick": "Spain ML",
+      "lineAtPick": "+130",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "VSiN staff (second article)",
+      "sport": "worldcup",
+      "game": "Argentina vs Spain",
+      "market": "moneyline",
+      "pick": "Spain ML",
+      "lineAtPick": "+130",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Chris Vasile (Covers)",
+      "sport": "worldcup",
+      "game": "Argentina vs Spain",
+      "market": "prop",
+      "pick": "Draw after 90 minutes (1-1)",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Victoria Matiash (ESPN)",
+      "sport": "worldcup",
+      "game": "Argentina vs Spain",
+      "market": "prop",
+      "pick": "Both Teams to Score / Over 2.5 Goals",
+      "lineAtPick": "+145",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Liz Loza (ESPN)",
+      "sport": "worldcup",
+      "game": "Argentina vs Spain",
+      "market": "prop",
+      "pick": "Spain to Score First Half Goal",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "Pickswise staff",
+      "sport": "worldcup",
+      "game": "Argentina vs Spain",
+      "market": "moneyline",
+      "pick": "Spain ML",
+      "lineAtPick": "+131",
+      "record": null,
+      "date": "2026-07-18",
+      "result": null
+    },
+    {
+      "analyst": "RotoWire staff",
+      "sport": "worldcup",
+      "game": "Argentina vs Spain",
+      "market": "moneyline",
+      "pick": "Spain ML",
+      "lineAtPick": null,
+      "record": null,
+      "date": "2026-07-18",
       "result": null
     }
   ]
